@@ -73,8 +73,14 @@ This project demonstrates the basic steps of a data science project, including d
    git clone https://github.com/your-username/iris-flower-classification.git
    ```
 
+```
 cd iris-flower-classification
+```
 
+```
 pip install -r requirements.txt
+```
 
+```
 python iris_classification.py
+```
